@@ -20,6 +20,7 @@
 
 ## terraform init
 ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
+![image](./TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
 
 
     * terraform init
