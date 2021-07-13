@@ -19,13 +19,13 @@
 # Steps:
 
     * terraform init
-        ./img/terraform_init.JPG
+        ![image](./img/terraform_init.JPG)
 
     * terraform plan
-        ./img/terraform_plan.JPG
-        
+        ![image](./img/terraform_plan.JPG)
+
     * terraform plan
-        ./img/terraform_apply.JPG
+        ![image](./img/terraform_apply.JPG)
 
 # Contributors :
 - Author:: Prabu Jaganathan ((mailto:Prabhuapr1984@gmail.com))
