@@ -19,7 +19,7 @@
 # Steps:
 
     * terraform init
-        ![image](./img/terraform_init.png)
+        ![image](./TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
 
     * terraform plan
         ![image](./img/terraform_plan.png)
