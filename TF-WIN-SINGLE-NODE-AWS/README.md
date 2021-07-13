@@ -1,4 +1,4 @@
-# This project will create the below resources:
+# This project will create the below resources :
 
     * Virtual Private Cloud (VPC)
     * Create Public Subnet
@@ -18,14 +18,14 @@
 
 # Steps:
 
-    * terraform init
-        ./img/terraform_init.JPG
+## Terraform init
+![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
 
-    * terraform plan
-        ./img/terraform_plan.JPG
-        
-    * terraform plan
-        ./img/terraform_apply.JPG
+## Terraform plan
+![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_plan.png)
+
+## Terraform apply
+![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_apply.png)
 
 # Contributors :
 - Author:: Prabu Jaganathan ((mailto:Prabhuapr1984@gmail.com))
