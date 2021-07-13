@@ -27,15 +27,5 @@
 ## terraform apply
 ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_apply.png)
 
-    * terraform init
-        ![image](./TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
-        ![alt text](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-WIN-SINGLE-NODE-AWS/img/terraform_init.png)
-
-    * terraform plan
-        ![image](./img/terraform_plan.png)
-
-    * terraform plan
-        ![image](./img/terraform_apply.png)
-
 # Contributors :
 - Author:: Prabu Jaganathan ((mailto:Prabhuapr1984@gmail.com))
