@@ -28,27 +28,27 @@
 ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/terraform_apply.png)
 
 ## User_data validation (user creation):
-![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/user.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/user.PNG)
 
 ## User_data validation (Package install (sample chefdk package)):
-![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/chefdk.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/chefdk.PNG)
 
 ## How to connect linux from Windows machine:
 
 ### Step 1: using PuTTY
 
-    Download and install PuTTY for windows from "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
-    Download and install PuTTYgen for windows from "https://www.puttygen.com/"
+Download and install PuTTY for windows from "https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html"
+Download and install PuTTYgen for windows from "https://www.puttygen.com/"
 
 ### Step 2: Generate Private key from .PEM file
 
-    ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTYgen-load.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTYgen-load.PNG)
 
-    ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTYgen-private.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTYgen-private.PNG)
 
-    ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-user.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-user.PNG)
 
-    ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/dev/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-auth.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-auth.PNG)
 
 
 # Contributors :
