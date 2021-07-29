@@ -48,7 +48,7 @@
 
 ![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-user.png)
 
-![image](https://raw.githubusercontent.com/Prabhuapr1984/Terraform-AWS/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-auth.png)
+![image](https://github.com/Prabhuapr1984/Terraform-AWS/blob/main/TF-LINUX-AWS-EC2-NODE(user_data)/img/PuTTY-auth.PNG)
 
 
 # Contributors :
